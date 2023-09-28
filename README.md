@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cottongrass0828
 - 👀 I’m interested in UI/UX, Front-end languages
 - 😎 I am familiar with Vue.js, Tailwind CSS, JavaScript, SCSS...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Next.js
 
 
 <!---
